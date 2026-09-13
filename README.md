@@ -45,3 +45,13 @@ The project uses SQL queries to analyze the data and answer business-related que
 ## Skills Demonstrated
 
 This project demonstrates practical skills in database management, SQL querying, relational database design, and data analysis.
+## Screenshots
+
+### Database
+![Database Project](<screenshots/Screenshot 2026-09-13 at 7.45.34 PM.png>)
+
+### Data
+![Student Data](<screenshots/Screenshot 2026-09-13 at 7.51.04 PM.png>)
+
+### Results
+![Analysis Results](<screenshots/Screenshot 2026-09-13 at 7.55.20 PM.png>)
